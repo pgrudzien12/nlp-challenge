@@ -1,0 +1,5 @@
+cognitive_services_key="YOUR_KEY"
+cognitive_services_endpoint="URL"
+translator_endpoint = "URL"
+translator_key = "YOUR_KEY"
+translator_region = "westeurope"
