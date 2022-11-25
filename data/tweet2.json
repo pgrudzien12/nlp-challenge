@@ -1,0 +1,32 @@
+{
+    "TweetText": "@Corriere Chi ha rubato il sorriso?\n#NATO + #Zelensky",
+    "TweetId": "1596087514305265664",
+    "CreatedAt": "Fri Nov 25 10:24:51 +0000 2022",
+    "CreatedAtIso": "2022-11-25T10:24:51.000Z",
+    "RetweetCount": 0,
+    "TweetedBy": "andreapiana13",
+    "MediaUrls": [],
+    "TweetLanguageCode": "it",
+    "TweetInReplyToUserId": "395218906",
+    "Favorited": false,
+    "UserMentions": [
+        {
+            "Id": 395218906,
+            "FullName": "Corriere della Sera",
+            "UserName": "Corriere"
+        }
+    ],
+    "OriginalTweet": null,
+    "UserDetails": {
+        "FullName": "Bébert@1944",
+        "Location": "",
+        "Id": 1239911258054447106,
+        "UserName": "andreapiana13",
+        "FollowersCount": 55,
+        "Description": "Skialper.",
+        "StatusesCount": 8303,
+        "FriendsCount": 283,
+        "FavouritesCount": 51726,
+        "ProfileImageUrl": "https://pbs.twimg.com/profile_images/1525211449194385408/xmbrWVeo_normal.jpg"
+    }
+}

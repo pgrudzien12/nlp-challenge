@@ -1,0 +1,71 @@
+{
+    "TweetText": "RT @GitanasNauseda: Productive talks with Romanian President @KlausIohannis🇷🇴 in Vilnius today.\nAgreed to: \n- Work together on strengthenin…",
+    "TweetId": "1596087597087924224",
+    "CreatedAt": "Fri Nov 25 10:25:11 +0000 2022",
+    "CreatedAtIso": "2022-11-25T10:25:11.000Z",
+    "RetweetCount": 18,
+    "TweetedBy": "Davidwi750",
+    "MediaUrls": [],
+    "TweetLanguageCode": "en",
+    "TweetInReplyToUserId": "",
+    "Favorited": false,
+    "UserMentions": [
+        {
+            "Id": 1067849967811944448,
+            "FullName": "Gitanas Nausėda",
+            "UserName": "GitanasNauseda"
+        },
+        {
+            "Id": 2765824141,
+            "FullName": "Klaus Iohannis",
+            "UserName": "KlausIohannis"
+        }
+    ],
+    "OriginalTweet": {
+        "TweetText": "Productive talks with Romanian President @KlausIohannis🇷🇴 in Vilnius today.\nAgreed to: \n- Work together on strengthening #NATO eastern flank in air, land and sea \n- Continue supporting Moldova's eurointegration &amp; helping🇲🇩to resist Russia's energy blackmailing. https://t.co/MYpu7vTybz",
+        "TweetId": "1595754768018051072",
+        "CreatedAt": "Thu Nov 24 12:22:39 +0000 2022",
+        "CreatedAtIso": "2022-11-24T12:22:39.000Z",
+        "RetweetCount": 18,
+        "TweetedBy": "GitanasNauseda",
+        "MediaUrls": [
+            "https://pbs.twimg.com/media/FiVCTNdX0AA0MqQ.jpg",
+            "https://pbs.twimg.com/media/FiVCTNkXoAAeri5.jpg",
+            "https://pbs.twimg.com/media/FiVCTOIXEAAvkwg.jpg"
+        ],
+        "TweetLanguageCode": "en",
+        "TweetInReplyToUserId": "",
+        "Favorited": false,
+        "UserMentions": [
+            {
+                "Id": 2765824141,
+                "FullName": "Klaus Iohannis",
+                "UserName": "KlausIohannis"
+            }
+        ],
+        "UserDetails": {
+            "FullName": "Gitanas Nausėda",
+            "Location": "Vilnius, Lithuania",
+            "Id": 1067849967811944448,
+            "UserName": "GitanasNauseda",
+            "FollowersCount": 123386,
+            "Description": "President of the Republic of Lithuania",
+            "StatusesCount": 1422,
+            "FriendsCount": 26,
+            "FavouritesCount": 308,
+            "ProfileImageUrl": "https://pbs.twimg.com/profile_images/1577606752467566596/JjJfafxE_normal.jpg"
+        }
+    },
+    "UserDetails": {
+        "FullName": "David wilson",
+        "Location": "",
+        "Id": 1537163357723279361,
+        "UserName": "Davidwi750",
+        "FollowersCount": 121,
+        "Description": "You will face many defeats in life, but never let yourself be defeated 💪 Orthopedic surgeon🇺🇸🇩🇪I like going to the beach, I laugh a lot, and I love nature.",
+        "StatusesCount": 283,
+        "FriendsCount": 1213,
+        "FavouritesCount": 404,
+        "ProfileImageUrl": "https://pbs.twimg.com/profile_images/1557754572579422208/S4n06Nn6_normal.jpg"
+    }
+}

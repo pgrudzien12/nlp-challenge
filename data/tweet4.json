@@ -1,0 +1,64 @@
+{
+    "TweetText": "RT @NATOpress: 🆕📹\"There can be no lasting peace if the aggressor wins. If oppression and autocracy prevail over freedom and democracy.\" \nAs…",
+    "TweetId": "1596117722206806016",
+    "CreatedAt": "Fri Nov 25 12:24:54 +0000 2022",
+    "CreatedAtIso": "2022-11-25T12:24:54.000Z",
+    "RetweetCount": 41,
+    "TweetedBy": "VickiMo08056436",
+    "MediaUrls": [],
+    "TweetLanguageCode": "en",
+    "TweetInReplyToUserId": "",
+    "Favorited": false,
+    "UserMentions": [
+        {
+            "Id": 124418093,
+            "FullName": "Oana Lungescu",
+            "UserName": "NATOpress"
+        }
+    ],
+    "OriginalTweet": {
+        "TweetText": "🆕📹\"There can be no lasting peace if the aggressor wins. If oppression and autocracy prevail over freedom and democracy.\" \nAs #NATO Foreign Ministers prepare to meet in #Bucharest 🇷🇴, Secretary General @jensstoltenberg says \"we will not back down\" from supporting #Ukraine 🇺🇦⬇️ https://t.co/cQZgc2tIgU",
+        "TweetId": "1596088809766195200",
+        "CreatedAt": "Fri Nov 25 10:30:00 +0000 2022",
+        "CreatedAtIso": "2022-11-25T10:30:00.000Z",
+        "RetweetCount": 41,
+        "TweetedBy": "NATOpress",
+        "MediaUrls": [
+            "https://pbs.twimg.com/ext_tw_video_thumb/1596085722204835840/pu/img/WUHCey6XdoIncnyX.jpg"
+        ],
+        "TweetLanguageCode": "en",
+        "TweetInReplyToUserId": "",
+        "Favorited": false,
+        "UserMentions": [
+            {
+                "Id": 20796069,
+                "FullName": "Jens Stoltenberg",
+                "UserName": "jensstoltenberg"
+            }
+        ],
+        "UserDetails": {
+            "FullName": "Oana Lungescu",
+            "Location": "Brussels, Belgium",
+            "Id": 124418093,
+            "UserName": "NATOpress",
+            "FollowersCount": 140965,
+            "Description": "Official Twitter account of the @NATO Spokesperson, Oana Lungescu. Ex BBC Europe correspondent. RT/follow doesn't mean endorsement. #WeAreNATO",
+            "StatusesCount": 29867,
+            "FriendsCount": 2037,
+            "FavouritesCount": 32249,
+            "ProfileImageUrl": "https://pbs.twimg.com/profile_images/1348932725626044417/3og8KhSE_normal.jpg"
+        }
+    },
+    "UserDetails": {
+        "FullName": "Mama V",
+        "Location": "",
+        "Id": 1281303947857113088,
+        "UserName": "VickiMo08056436",
+        "FollowersCount": 1279,
+        "Description": "A daughter. A sister. A mother. A granny. A great granny!",
+        "StatusesCount": 436314,
+        "FriendsCount": 4261,
+        "FavouritesCount": 523295,
+        "ProfileImageUrl": "https://pbs.twimg.com/profile_images/1496962472653332490/EmkpVPFW_normal.jpg"
+    }
+}

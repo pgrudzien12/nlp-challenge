@@ -1,0 +1,56 @@
+{
+    "TweetText": "RT @TgLa7: #Nato: stop Ungheria su ingresso della Svezia e Finlandia",
+    "TweetId": "1595920572873338880",
+    "CreatedAt": "Thu Nov 24 23:21:30 +0000 2022",
+    "CreatedAtIso": "2022-11-24T23:21:30.000Z",
+    "RetweetCount": 104,
+    "TweetedBy": "LuigiDonfrance1",
+    "MediaUrls": [],
+    "TweetLanguageCode": "it",
+    "TweetInReplyToUserId": "",
+    "Favorited": false,
+    "UserMentions": [
+        {
+            "Id": 828717014,
+            "FullName": "Tg La7",
+            "UserName": "TgLa7"
+        }
+    ],
+    "OriginalTweet": {
+        "TweetText": "#Nato: stop Ungheria su ingresso della Svezia e Finlandia",
+        "TweetId": "1595816453227352067",
+        "CreatedAt": "Thu Nov 24 16:27:45 +0000 2022",
+        "CreatedAtIso": "2022-11-24T16:27:45.000Z",
+        "RetweetCount": 104,
+        "TweetedBy": "TgLa7",
+        "MediaUrls": [],
+        "TweetLanguageCode": "it",
+        "TweetInReplyToUserId": "",
+        "Favorited": false,
+        "UserMentions": [],
+        "UserDetails": {
+            "FullName": "Tg La7",
+            "Location": "",
+            "Id": 828717014,
+            "UserName": "TgLa7",
+            "FollowersCount": 793405,
+            "Description": "Account ufficiale del Tg La7: news e aggiornamenti in tempo reale. Seguici anche su Telegram https://t.co/Q1WiXAhk1k",
+            "StatusesCount": 155434,
+            "FriendsCount": 243,
+            "FavouritesCount": 597,
+            "ProfileImageUrl": "https://pbs.twimg.com/profile_images/2619174152/ah9yaq8dpqf4g1aqxcfv_normal.jpeg"
+        }
+    },
+    "UserDetails": {
+        "FullName": "Luigi Donfrancesco",
+        "Location": "",
+        "Id": 1033993296203472896,
+        "UserName": "LuigiDonfrance1",
+        "FollowersCount": 2093,
+        "Description": "Governo & Istituzioni Politica Notizie Scienza",
+        "StatusesCount": 59909,
+        "FriendsCount": 5004,
+        "FavouritesCount": 130478,
+        "ProfileImageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+    }
+}
